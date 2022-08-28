@@ -1,0 +1,17 @@
+Package: com.m4fn3.k2ge3
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: Tweaks
+Maintainer: mafu
+Installed-Size: 200
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.m4fn3.k2ge3_0.0.1_iphoneos-arm.deb
+Size: 4390
+MD5sum: f93121812fc174b2d8298119287ff849
+SHA1: 8afa26acd4656f34fb7f42c4d9b0a57e990e2d4f
+SHA256: bc04e380f2f46cf20939cc172ea7cbaecd3081e3db22d10f99e8918b7a0b7b27
+SHA512: f1b314edf7fd2b2c48249e36115e58e281b9d6cfed3db665213cfe4410e55dd3129e0fa14666057355f480ca69deca4b4afe4289a966d921837d2baf676dd6f3
+Description: Tweak for LINE app.
+Name: k2ge3
+Author: mafu
+

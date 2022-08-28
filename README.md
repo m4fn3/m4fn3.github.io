@@ -1,8 +1,3 @@
 # mafu's Cydia Repository
-
-## Package debs
-```sh
-apt-ftparchive packages ./debs > Packages
-bzip2 -kf Packages
-gzip -c Packages > Packages.gz
-```
+## Add this repo
+### [Cydia](cydia://url/https://cydia.saurik.com/api/share#?source=https://m4fn3.github.io/) / [Sileo](sileo://source/https://m4fn3.github.io) / [Zebra](zbra://sources/add/https://m4fn3.github.io)

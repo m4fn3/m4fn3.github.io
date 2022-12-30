@@ -1,35 +1,35 @@
-Package: app.k2genmity.dev
+Package: app.enmity.dev
 Architecture: iphoneos-arm
 Version: 1.0.0
 Section: Tweaks
-Maintainer: mafu, Zoey, eternal
+Maintainer: Zoey, eternal
 Installed-Size: 464
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/K2genmity.Development.deb
-Size: 85646
-MD5sum: 8bfd8120238c36d3c96b7300e09ffb87
-SHA1: 3fbf1783531e61026a869dfbb6da8a35e6a65a7d
-SHA256: 4dc030440562569401c656111ed0be6e1d3a1a088d7fdee896568c83a8574565
-SHA512: 2d724d461a65b221e2f1b53f238eee38ed23487ad11516d6803189a0128e1c4d46dfed0bd15803e506857b2e28ff432724ad19abd9ef60b5df21cf1849552455
+Size: 85554
+MD5sum: 9c60a9f7dfeef2036791753e6e51a7e8
+SHA1: fd51a9e70db5a4418e5a47b4d95a2ab1843b89d0
+SHA256: 2b0b7a9ee17d0caae41afd38425809aafc0733353bfb6fc11cc08dad5ea31cb7
+SHA512: 9834c39af9022594734ddfaa0e9f351b2a38bcc62faef234049ad18e8e1964583ec78e468eb74a67d1224252ae473f9898b9b9ba23267c5b4295c038635bdc3b
 Description: The power of addons, all in your hand.
 Name: K2genmity (Dev)
 Author: Enmity Team
 SileoDepiction: https://repo.enmity.app/depictions/enmity.json
 Icon: https://repo.enmity.app/icons/Enmity.png
 
-Package: app.k2genmity
+Package: app.enmity
 Architecture: iphoneos-arm
 Version: 1.0.0
 Section: Tweaks
-Maintainer: mafu, Zoey, eternal
+Maintainer: Zoey, eternal
 Installed-Size: 464
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/K2genmity.deb
-Size: 85430
-MD5sum: 4399d4a1ae4c32b474309326a4566c91
-SHA1: ccd296358ec8e1954e4b66c974fa21b9fa2328bd
-SHA256: f5ab1d56c92312014af7559f1e070a601a3efa57a2b014a4d6586309349003d9
-SHA512: 14306e856338730ed5f5ce0124ad6868036f36af117721928d6a79823d1d1c64955ab9de43747ff4e69aa8cb40f0e8995428cfb54035911eaf1dbaa617f9876a
+Size: 85438
+MD5sum: c64bf8a7f0a977114418e75564df8291
+SHA1: 42603f1de7409b0d5e6f9803dba8bf3b7c1c4ccc
+SHA256: 53ca6fa812b50b2cd80512b9180c154b03b4a00c9ac1913c233cbd9005a4cb67
+SHA512: 23300e7e38b2c841503b0eec4c2c1c1fa2bb7c553fafa12eaeaad75f1bb7b5fe7f16ce3205887bcfd5c5e6c6115b95df53ad4a0a8e53e80782b4000d41036af4
 Description: The power of addons, all in your hand.
 Name: K2genmity
 Author: Enmity Team

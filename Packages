@@ -1,16 +1,16 @@
 Package: app.k2genmity.dev
 Architecture: iphoneos-arm
-Version: 1.0.0
+Version: 2.1.8
 Section: Tweaks
-Maintainer: Zoey, eternal
-Installed-Size: 464
+Maintainer: mafu, Rosie
+Installed-Size: 432
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/K2genmity.Development.deb
-Size: 85568
-MD5sum: ff73bbd333db162e0099f28ea0ebe475
-SHA1: 1b02e3bcfdaa6d2353d84c5ca15779d42b5aded6
-SHA256: 82a830f1b75544a68ff8adda842d99b925beef24f481ab44096619ecb28191bb
-SHA512: faba944984191d926f8c839fd25c17e3e961f84b47b86bfb5c5453b20bbaa10c151f5dc2147d48fe2f419fbb3f023a6ff53cf0bd41d99d9c87dbc4a5c647abf6
+Size: 78360
+MD5sum: 2ec889b44379069553a7e53c3d8786c8
+SHA1: c5bdfd4ecdd2ff795e3aa19c52269744ac1d5455
+SHA256: 9ecd77806e2791c86f16a4b8669017b93a2dd41f38a15b19a96928343315c4eb
+SHA512: 52be1e47951d033a3105a304581904b3db0719913154a94333f0c05feec3c4517111236e3f2da0509b635945f0c217d3790b8c4298258f54fe68fc88e35db462
 Description: The power of addons, all in your hand.
 Name: K2genmity (Dev)
 Author: Enmity Team
@@ -19,17 +19,17 @@ Icon: https://repo.enmity.app/icons/Enmity.png
 
 Package: app.k2genmity
 Architecture: iphoneos-arm
-Version: 1.0.0
+Version: 2.1.8
 Section: Tweaks
-Maintainer: Zoey, eternal
-Installed-Size: 464
+Maintainer: mafu, Rosie
+Installed-Size: 432
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/K2genmity.deb
-Size: 85414
-MD5sum: 323669509e38a1aea473699d69121b80
-SHA1: 433a64ce63adc9574484e4ecf02ca7fd366b1475
-SHA256: 73c6d185678a2a1d8b32a204f4b06256e087e374a84b43ed47e1fabbc92269a2
-SHA512: 784e34bb72d58a4d0c5c31521dfcf61d1809f6f6cf30ccf0612a9b13dfa37aef193987004f1b1d941ef4072f269253c48494e3502d9a257d3a22d19075a7939f
+Size: 78406
+MD5sum: 2450a708f9ca331944e323428ed4a427
+SHA1: 0e1450b8301f343ddf95ee101d39e7b5c1fa99f6
+SHA256: 531150bc39d6f223ac80c0e0cf217d0513c6cccf40ec22aa3fd68061db79444c
+SHA512: b996463c0b42c26b78f1b23e9feb9098e60396e59d7eecab143061bba39bf7abaabdbab1410ad15c8fa83559f7c20ed9a4297128b962ab4707ed6119109f8402
 Description: The power of addons, all in your hand.
 Name: K2genmity
 Author: Enmity Team

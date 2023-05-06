@@ -74,6 +74,23 @@ Author: Enmity Team
 SileoDepiction: https://repo.enmity.app/depictions/enmity.json
 Icon: https://repo.enmity.app/icons/Enmity.png
 
+Package: com.m4fn3.gommirativ
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: Tweaks
+Maintainer: mafu
+Installed-Size: 480
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: ./debs/com.m4fn3.gommirativ_0.0.1_iphoneos-arm.deb
+Size: 64798
+MD5sum: 0a643b994fd896169612188e47c09571
+SHA1: 6d149b3ecf76ea52ed42c1f900eb233b5dc0d028
+SHA256: 8135c19437f8c6a941339901339634216400617c57076c7751c9f53c843e3652
+SHA512: 77d14ccc9184ccb0d9be1bdd483337e885bcbb7b542e39e4c4bb99bdff99dd3d5f893c50bdadf97e5b7ed4bc39ab35d714f18472579bcb698ef175fe8aa9ad34
+Description: Bypass jailbreak detection of Mirrativ
+Name: gommirativ
+Author: mafu
+
 Package: com.m4fn3.k2ge3
 Architecture: iphoneos-arm
 Version: 0.1.0

@@ -82,14 +82,15 @@ Maintainer: mafu
 Installed-Size: 480
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
 Filename: ./debs/com.m4fn3.gommirativ_0.0.1_iphoneos-arm.deb
-Size: 64798
-MD5sum: 0a643b994fd896169612188e47c09571
-SHA1: 6d149b3ecf76ea52ed42c1f900eb233b5dc0d028
-SHA256: 8135c19437f8c6a941339901339634216400617c57076c7751c9f53c843e3652
-SHA512: 77d14ccc9184ccb0d9be1bdd483337e885bcbb7b542e39e4c4bb99bdff99dd3d5f893c50bdadf97e5b7ed4bc39ab35d714f18472579bcb698ef175fe8aa9ad34
+Size: 64906
+MD5sum: 4c719ad95f3525de07725b10bd63295d
+SHA1: e5000429e24c2d854eb462be101d1181e03c43d9
+SHA256: 180441b6ccee37009e64c41ea0004bcb84a63342ddd87644a695f24862892cce
+SHA512: f34b612300ac1f1b8a92fe5585c3f44a399cce23070d1f8afda1b74c477060f9563f0f039776eddaed6de3e81fa6fc7ab57433cee5a92a5cffe4c0536968b45b
 Description: Bypass jailbreak detection of Mirrativ
 Name: gommirativ
 Author: mafu
+Icon: https://cdn.discordapp.com/attachments/1009459069087649792/1104256572764467270/256.png
 
 Package: com.m4fn3.k2ge3
 Architecture: iphoneos-arm

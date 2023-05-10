@@ -92,24 +92,6 @@ Name: gommirativ
 Author: mafu
 Icon: https://cdn.discordapp.com/attachments/1009459069087649792/1104256572764467270/256.png
 
-Package: com.m4fn3.gommirativ
-Architecture: iphoneos-arm64
-Version: 0.0.1
-Section: Tweaks
-Maintainer: mafu
-Installed-Size: 480
-Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
-Filename: ./debs/com.m4fn3.gommirativ_0.0.1_iphoneos-arm64.deb
-Size: 64924
-MD5sum: b7e30c4b588d7c26cdca8df7a8f52c42
-SHA1: 1386f2a04ebae80011c5a92edf701ab8c67d63d7
-SHA256: 821a0c530318d991cdc239b9d407c52b0f7ae92b93702e484b3c0978684a52c0
-SHA512: 29a022e0cef75e50356e0e99931425f277ab83aeb376fd39c1e2b68237433f2d0c6fa040dce7ffe4eaf05a68be2738091c393c5ef2f2d5224b798287ef4d806c
-Description: Bypass jailbreak detection of Mirrativ
-Name: gommirativ
-Author: mafu
-Icon: https://cdn.discordapp.com/attachments/1009459069087649792/1104256572764467270/256.png
-
 Package: com.m4fn3.k2ge3
 Architecture: iphoneos-arm
 Version: 0.1.0
@@ -123,23 +105,6 @@ MD5sum: e7d3d2109c6556a0233eaeb4e9d9f957
 SHA1: 21e266e21889a72b49c5255b5410c0e1bcf0db7e
 SHA256: 9631ebd796cdd36b896ea196b3e42cd47ca532128e78bb0b9ea08da70e7ec38a
 SHA512: 22bb8b6f3674850a4ac8654a220cb313aa93448e4b20a5c7d0e3eb75edee69e470d958d51f1db7be348cfc074c6ec46c05ec49bdf79fa0005f71d9c117769196
-Description: Tweak for LINE app.
-Name: k2ge3
-Author: mafu
-
-Package: com.m4fn3.k2ge3
-Architecture: iphoneos-arm64
-Version: 0.1.0
-Section: Tweaks
-Maintainer: mafu
-Installed-Size: 456
-Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
-Filename: ./debs/com.m4fn3.k2ge3_0.1.0_iphoneos-arm64.deb
-Size: 40330
-MD5sum: 9f492b3f36cde8b60d570eb204e37df1
-SHA1: 54af29888221fab263f9f4d3e89d1f287d19e111
-SHA256: 195377d6455b99ffb2b808c1b5ceab111cecb1e24c42dd0398712182df9cb4a8
-SHA512: b7fee4720e775095573d10464b5847270792fa9bf6e2232d0f0148f33425ab6e3c2fddad65fb94cc88efc6d97b270a80cf4c58ea15fa8589ebf86b8531c016eb
 Description: Tweak for LINE app.
 Name: k2ge3
 Author: mafu

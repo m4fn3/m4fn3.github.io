@@ -109,3 +109,23 @@ Description: Tweak for LINE app.
 Name: k2ge3
 Author: mafu
 
+Package: com.strejda603.documentsbyreaddlepremium
+Architecture: iphoneos-arm64
+Version: 1.0.1
+Section: Tweaks
+Maintainer: strejda603 <strejda603@centrum.cz>
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debs/com.strejda603.documentsbyreaddlepremium_1.0.1_iphoneos-arm64.deb
+Size: 4588
+MD5sum: 1692b717adc5c558539c7f48d6a9566d
+SHA1: a0e6d2344417b6a2618231da8c9386699f0a4a23
+SHA256: 3144e742e74632ac48aca68b381886840614efdb5b8c97e99da48e0755eac8b9
+SHA512: f5c8c6cba9fc97843d9a29a7f9699bde633ada98fe4a9d96b7ad5647d46b7e19993014194024a5f2663da5b0690e9f651ade1e955421232e60605f62dc59570c
+Homepage: https://repo.danielpitra.cz
+Description: Enables Plus features.
+Name: Documents by Readdle (Plus)
+Author: strejda603 <strejda603@centrum.cz>
+Depiction: https://repo.danielpitra.cz/depiction.php?id=com.strejda603.documentsbyreaddlepremium
+Sileodepiction: https://repo.danielpitra.cz/sileo-depiction.php?id=com.strejda603.documentsbyreaddlepremium
+

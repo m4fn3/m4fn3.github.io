@@ -6,18 +6,18 @@ Maintainer: mafu, Rosie
 Installed-Size: 432
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/K2genmity.Development.deb
-Size: 79132
-MD5sum: 36d158d5d300e7bcd7c48067609418c6
-SHA1: 34babb79f2dd4e7e333a3abf26e181b4931b63d4
-SHA256: 0f9550a6d3de55ae0ee36aaf1bcad08df2c18113b79374d53d0054a09bdcb8c7
-SHA512: 1d1cfc202fb676b5da8116ac9c11286c9906afe675955ae92cfb3e7697a622ae837fbbd423354c7d2faa6124ea97d70965698032eb19903f9b1677c3c9e23fdb
+Size: 79196
+MD5sum: 8c74477448640b3f91692924ff18d023
+SHA1: a4818a27a98e5a313f252c89fc5762194df302d0
+SHA256: b7b93cdb6142e38700f9913475fa9c3dc1061453f2e74992df2bc20de2e2aa48
+SHA512: d2f00bfaede78c682e451d1f3bbda8f5a71289782f11529f1da7a01c0a6b3bc08631563fffe3334046b3cd67f5a9f38e8903af82bcc3cd5709d543ffd6cfb05b
 Description: The power of addons, all in your hand.
 Name: K2genmity (Dev)
 Author: Enmity Team
 SileoDepiction: https://repo.enmity.app/depictions/enmity.json
 Icon: https://repo.enmity.app/icons/Enmity.png
 
-Package: app.k2genmity.dev.rootless
+Package: app.k2genmity.dev
 Architecture: iphoneos-arm64
 Version: 2.2.6
 Section: Tweaks
@@ -25,18 +25,18 @@ Maintainer: mafu, Rosie
 Installed-Size: 432
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/K2genmity.Rootless.Development.deb
-Size: 79210
-MD5sum: f2f9e02d3de2aedcdec3148fc6207b19
-SHA1: c63c28896473c39213120a6c36c44a8fa9015aa0
-SHA256: 1d9b74469e6aa57492f7ca22098c277bd792a8bfc2e60ee437808b658b4a6e77
-SHA512: 31246fcf460c4dc210acac473ac8f717c8c6632f9cd376666b564e9e357fef53b71abb66da18921be7b538bac4443746120440d9015564d6a54c930ef9465949
+Size: 79118
+MD5sum: fe4554011cb36b3bb16206bcc260858d
+SHA1: 2eb4b0293f56e7905672525024f1b2673f2103e5
+SHA256: 4a60daa2f8469c38e50f26f652a08b72afbe5a2792b574667f7b489a04526ef0
+SHA512: 5850047b5a50272d9135372c1a88a81a11c33b4a9eb7a895406ed4f7bd2b12bb51cb001d1a9c7a42b6e84b028cbd1e7859456429cfd78cd6cdc00845734201e4
 Description: The power of addons, all in your hand.
 Name: K2genmity (Rootless)
 Author: Enmity Team
 SileoDepiction: https://repo.enmity.app/depictions/enmity.json
 Icon: https://repo.enmity.app/icons/Enmity.png
 
-Package: app.k2genmity.rootless
+Package: app.k2genmity
 Architecture: iphoneos-arm64
 Version: 2.2.6
 Section: Tweaks
@@ -44,11 +44,11 @@ Maintainer: mafu, Rosie
 Installed-Size: 432
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/K2genmity.Rootless.deb
-Size: 79022
-MD5sum: 9147b16a53fae427a66ee5fdf55e1335
-SHA1: 651faea658c0ea59a1ce57e05df80009f7ac32eb
-SHA256: bbef4bd2d4fb36ee95a064f9e55f4caa03981d1127f913f303920679d6236939
-SHA512: ce54e52b5cb0424b150b46cb30af4b8eb58ddefe6a4546b46f154b714d231f93416b97549a4371ee9b1c46f731d2453a0cc1d37c96375fbd5761578c2779d8f5
+Size: 79068
+MD5sum: 15d76731004baf98382e7072dd40c474
+SHA1: 110e42bbded7afee07f054a9817de74c4f88f439
+SHA256: 0d97d77eb5813a709e7a51f43f4425ad8f7d4c9d20c68d44b31040d0047407eb
+SHA512: 77b1bc1718db549485be689ba471853c026f4c68a06249f20519a5a34a77db62230d39ed1e32a6fb72dd7df1d85f977c6f56de7d1fe47c5b266c20cf3cf047d1
 Description: The power of addons, all in your hand.
 Name: K2genmity (Rootless)
 Author: Enmity Team
@@ -63,11 +63,11 @@ Maintainer: mafu, Rosie
 Installed-Size: 432
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/K2genmity.deb
-Size: 79052
-MD5sum: 6bd6625148c21a9eff4cc44d221c5793
-SHA1: 9f2c007711e3c8bd5cff749a63e3255b5bffe01f
-SHA256: 1b4cef873ca83d04b3813b22033b8ce1f0825d8ff68d98be0f464461526e170f
-SHA512: d7905130b4f78b580bf0324f40756e9b6bc1db624f5a2e4ee3f6ae2a6a240b0015043a80e727a4799714c261c3805222044758284611df414ec35644f6b5b090
+Size: 78866
+MD5sum: 95681ee31c19439f5459b3d9a55bcf11
+SHA1: 2e2d33d125b1e15aee2a17e1b72e1d29ba2a069a
+SHA256: be61bcfd03ff607981c0f87bcb15c4b13487b2162ef594e3c4dd75f2d677265a
+SHA512: e0ea3937448db507f6ab94064f038c1807218033f6e6162ea47334c4900387adc724e6fe27f1002b2c95c628b37d2e637bff90d1772f3da05544e1b879b92941
 Description: The power of addons, all in your hand.
 Name: K2genmity
 Author: Enmity Team

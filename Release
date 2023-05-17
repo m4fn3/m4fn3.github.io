@@ -1,8 +1,8 @@
 Origin: mafu
 Label: mafu
-Suite: stable
+Suite: stable's repo
 Version: 1.0
 Codename: mafu
-Architectures: iphoneos-arm
+Architectures: iphoneos-arm iphoneos-arm64
 Components: main
-Description: mafu's repository
+Description: tweak repository of @m4fn3

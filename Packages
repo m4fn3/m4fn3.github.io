@@ -1,79 +1,3 @@
-Package: app.k2genmity.dev
-Architecture: iphoneos-arm
-Version: 2.2.6
-Section: Tweaks
-Maintainer: mafu, Rosie
-Installed-Size: 432
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/K2genmity.Development.deb
-Size: 79196
-MD5sum: 8c74477448640b3f91692924ff18d023
-SHA1: a4818a27a98e5a313f252c89fc5762194df302d0
-SHA256: b7b93cdb6142e38700f9913475fa9c3dc1061453f2e74992df2bc20de2e2aa48
-SHA512: d2f00bfaede78c682e451d1f3bbda8f5a71289782f11529f1da7a01c0a6b3bc08631563fffe3334046b3cd67f5a9f38e8903af82bcc3cd5709d543ffd6cfb05b
-Description: The power of addons, all in your hand.
-Name: K2genmity (Dev)
-Author: Enmity Team
-SileoDepiction: https://repo.enmity.app/depictions/enmity.json
-Icon: https://repo.enmity.app/icons/Enmity.png
-
-Package: app.k2genmity.dev
-Architecture: iphoneos-arm64
-Version: 2.2.6
-Section: Tweaks
-Maintainer: mafu, Rosie
-Installed-Size: 432
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/K2genmity.Rootless.Development.deb
-Size: 79118
-MD5sum: fe4554011cb36b3bb16206bcc260858d
-SHA1: 2eb4b0293f56e7905672525024f1b2673f2103e5
-SHA256: 4a60daa2f8469c38e50f26f652a08b72afbe5a2792b574667f7b489a04526ef0
-SHA512: 5850047b5a50272d9135372c1a88a81a11c33b4a9eb7a895406ed4f7bd2b12bb51cb001d1a9c7a42b6e84b028cbd1e7859456429cfd78cd6cdc00845734201e4
-Description: The power of addons, all in your hand.
-Name: K2genmity (Rootless)
-Author: Enmity Team
-SileoDepiction: https://repo.enmity.app/depictions/enmity.json
-Icon: https://repo.enmity.app/icons/Enmity.png
-
-Package: app.k2genmity
-Architecture: iphoneos-arm64
-Version: 2.2.6
-Section: Tweaks
-Maintainer: mafu, Rosie
-Installed-Size: 432
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/K2genmity.Rootless.deb
-Size: 79068
-MD5sum: 15d76731004baf98382e7072dd40c474
-SHA1: 110e42bbded7afee07f054a9817de74c4f88f439
-SHA256: 0d97d77eb5813a709e7a51f43f4425ad8f7d4c9d20c68d44b31040d0047407eb
-SHA512: 77b1bc1718db549485be689ba471853c026f4c68a06249f20519a5a34a77db62230d39ed1e32a6fb72dd7df1d85f977c6f56de7d1fe47c5b266c20cf3cf047d1
-Description: The power of addons, all in your hand.
-Name: K2genmity (Rootless)
-Author: Enmity Team
-SileoDepiction: https://repo.enmity.app/depictions/enmity.json
-Icon: https://repo.enmity.app/icons/Enmity.png
-
-Package: app.k2genmity
-Architecture: iphoneos-arm
-Version: 2.2.6
-Section: Tweaks
-Maintainer: mafu, Rosie
-Installed-Size: 432
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/K2genmity.deb
-Size: 78866
-MD5sum: 95681ee31c19439f5459b3d9a55bcf11
-SHA1: 2e2d33d125b1e15aee2a17e1b72e1d29ba2a069a
-SHA256: be61bcfd03ff607981c0f87bcb15c4b13487b2162ef594e3c4dd75f2d677265a
-SHA512: e0ea3937448db507f6ab94064f038c1807218033f6e6162ea47334c4900387adc724e6fe27f1002b2c95c628b37d2e637bff90d1772f3da05544e1b879b92941
-Description: The power of addons, all in your hand.
-Name: K2genmity
-Author: Enmity Team
-SileoDepiction: https://repo.enmity.app/depictions/enmity.json
-Icon: https://repo.enmity.app/icons/Enmity.png
-
 Package: com.m4fn3.gommirativ
 Architecture: iphoneos-arm
 Version: 0.0.1
@@ -107,6 +31,40 @@ SHA256: 9631ebd796cdd36b896ea196b3e42cd47ca532128e78bb0b9ea08da70e7ec38a
 SHA512: 22bb8b6f3674850a4ac8654a220cb313aa93448e4b20a5c7d0e3eb75edee69e470d958d51f1db7be348cfc074c6ec46c05ec49bdf79fa0005f71d9c117769196
 Description: Tweak for LINE app.
 Name: k2ge3
+Author: mafu
+
+Package: com.m4fn3.k2genmity
+Architecture: iphoneos-arm
+Version: 2.0.0
+Section: Tweaks
+Maintainer: mafu
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/com.m4fn3.k2genmity_2.0.0_iphoneos-arm.deb
+Size: 8954
+MD5sum: 695dbca3c0be0aadfc23ed716591eccc
+SHA1: b3920fff29cf1d08b219fe316cec795377fe4693
+SHA256: 9add82f91f759ca77fd53c0c5e5bf29c83d1bee7d366210cc5d14cf1458e7205
+SHA512: 51460486525e6ca0c300618813889a805dff4a9f002f32c44e85b1627c3de82e88ecf01670e76c839933970e9b1ef37e507f4c74cab26de27d4331aedac55013
+Description: Enhance features of Enmity plugins by mafu
+Name: K2genmity
+Author: mafu
+
+Package: com.m4fn3.k2genmity
+Architecture: iphoneos-arm64
+Version: 2.0.0
+Section: Tweaks
+Maintainer: mafu
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/com.m4fn3.k2genmity_2.0.0_iphoneos-arm64.deb
+Size: 8992
+MD5sum: 0e34b01455609ef6333316f1106bf9e3
+SHA1: feacf6ebba2b35d5642a912bf64c1821dc091120
+SHA256: a2f37aaf91c0a50aea6220c3c2a976f2c18e1ae26cb97582023946f31a934243
+SHA512: 866534b34449b1b2c3ff3cd873c832d1c053df28fc77b08ad9ce324d051bfc9a218b06548026a9e3cf988a0a92713d799e4c171fb7de4353e0c172080bb706d1
+Description: Enhance features of Enmity plugins by mafu
+Name: K2genmity
 Author: mafu
 
 Package: com.strejda603.documentsbyreaddlepremium

@@ -67,6 +67,40 @@ Description: Enhance features of Enmity plugins by mafu
 Name: K2genmity
 Author: mafu
 
+Package: com.m4fn3.k2genmity
+Architecture: iphoneos-arm
+Version: 2.0.1
+Section: Tweaks
+Maintainer: mafu
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/com.m4fn3.k2genmity_2.0.1_iphoneos-arm.deb
+Size: 8916
+MD5sum: ac6536d56808dc0203400362383cfd32
+SHA1: 6a4f4f44d73d5dd1fb992542e96c4c13f031da8c
+SHA256: 85009a3bda9cf1a57e292ea3825cd80094b8cafd82c0e2de7d28834433442b84
+SHA512: b19e66904fbf25f36e2e572296db09a9fa3ab25374fbcc6b7f5ec72759eba1e71a5f39813745c9332706fc97c3e6c5b4b0e2c70ebe24897e68e1bde6ba1bd515
+Description: Enhance features of Enmity plugins by mafu
+Name: K2genmity
+Author: mafu
+
+Package: com.m4fn3.k2genmity
+Architecture: iphoneos-arm64
+Version: 2.0.1
+Section: Tweaks
+Maintainer: mafu
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/com.m4fn3.k2genmity_2.0.1_iphoneos-arm64.deb
+Size: 8960
+MD5sum: 1b6f5421576155999a1521f0c7c1786d
+SHA1: bc69a882f41bb7f58e7c3db4bf28faeaf26e99b3
+SHA256: 137345b45482689ac5f3e1e998829643039d6ff2295ec7944385de9d3d9cdf09
+SHA512: 54c5bf125c960a8dc8abb6e8d152a249c8805f7968da6cf509b1fdf64fdc7a19af47f94bdf7e780c16346a906a10c6d37ee97bd1af3d3612f7aef16a8e8e39a6
+Description: Enhance features of Enmity plugins by mafu
+Name: K2genmity
+Author: mafu
+
 Package: com.strejda603.documentsbyreaddlepremium
 Architecture: iphoneos-arm64
 Version: 1.0.1

@@ -1,0 +1,172 @@
+body {
+    font-family: Calibr, Candara, Segoe, Segoe UI, Optima, Arial, sans-serif;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    overflow: hidden;
+    background-color: #E6DACB;
+}
+
+p {
+    color: #442424;
+}
+
+
+.contact {
+    font-size: 25px;
+    float: right;
+}
+
+.contact a {
+    margin-right: 10px;
+}
+
+.social {
+    top: 0;
+    right: 0;
+    position: absolute;
+}
+
+.home {
+    text-align: center;
+    margin: 50px 0 0 0;
+}
+
+
+.home img {
+    width: 128px;
+    display: block;
+    margin: auto;
+}
+
+.home .home_icon {
+    width: 128px;
+    height: 128px;
+    margin: 0 auto 20px auto;
+    overflow: hidden;
+    border-radius: 50%;
+}
+
+.home_desc {
+    font-size: 40px;
+    margin: 10px 0;
+}
+
+.home_managers {
+    padding: 0;
+}
+
+.home_managers a {
+    font-size: 25px;
+    color: #442423;
+    text-decoration: none;
+}
+
+.home_managers img {
+    width: 40px;
+    height: 40px;
+    margin: 10px 5px;
+}
+
+.home_managers li {
+    display: inline-block;
+}
+
+.home_packages {
+    margin: 10px auto;
+    padding: 0;
+}
+
+.home_packages a {
+    text-decoration: none;
+}
+
+.home_packages ul {
+    border-top: dotted 2px #442424;
+    list-style-type: none;
+    margin: 0 auto;
+    padding: 20px 0;
+}
+
+.home_packages li {
+    margin: 0 auto;
+}
+
+.package {
+    width: 320px; /* 450 */
+    margin: 0 auto;
+}
+
+.package img {
+    width: 60px; /* 75 */
+    height: 60px;
+    display: inline-block;
+}
+
+.package .package_info {
+    width: 250px;
+    display: inline-block;
+    vertical-align: top; /*上でそろえる*/
+}
+
+.package .package_name {
+    height: 35px;
+    font-size: 27px;
+    vertical-align: middle;
+    text-align: left;
+    padding: 0 0 0 10px;
+    margin: 0;
+}
+
+.package .package_desc {
+    height: 25px;
+    font-size: 15px;
+    vertical-align: middle;
+    text-align: left;
+    padding: 0 0 0 10px;
+    margin: 0;
+}
+
+.purchase {
+    display: inline-block;
+}
+
+.purchase p {
+    width: 150px;
+    margin: 0;
+    display: inline-block;
+}
+
+.purchase a {
+    width: 100px;
+    margin: 0;
+    display: inline-block;
+    background: #C4C4AC;
+    border-radius: 30px;
+    text-decoration: none;
+    color: #442424;
+}
+
+.detail {
+    text-align: center;
+    margin: 50px 0 0 0;
+}
+
+.detail_title {
+    margin: 10px auto 20px auto;
+}
+
+.detail_content {
+    border-top: dotted 2px #442424;
+    padding: 10px 0 0 0;
+    margin: 10px auto;
+}
+
+.footer {
+    color: #442424;
+    font-size: 12px;
+    margin: 0 auto;
+    padding: 0;
+    text-align: center;
+}

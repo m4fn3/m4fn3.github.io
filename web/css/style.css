@@ -1,10 +1,5 @@
 body {
     font-family: Calibr, Candara, Segoe, Segoe UI, Optima, Arial, sans-serif;
-    position: fixed;
-    top: 0;
-    left: 0;
-    right: 0;
-    overflow: hidden;
     background-color: #E6DACB;
 }
 

@@ -7,6 +7,14 @@ p {
     color: #442424;
 }
 
+h1 {
+    color: #442424;
+}
+
+h2 {
+    color: #442424;
+    font-size: 20px;
+}
 
 .contact {
     font-size: 25px;
@@ -157,6 +165,44 @@ p {
     border-top: dotted 2px #442424;
     padding: 10px 0 0 0;
     margin: 10px auto;
+}
+
+
+.detail_content p {
+    text-align: left;
+}
+
+.detail_languages a {
+    font-size: 20px;
+    line-height: 25px;
+    color: #442423;
+    text-decoration: none;
+}
+
+.detail_languages li {
+    border: dotted 2px #442424;
+    width: 100px;
+    display: inline-block;
+    margin: 0 10px;
+}
+
+
+.detail_text {
+    line-height: 25px;
+}
+
+@media (min-width: 600px) {
+    .detail_text {
+        width: 600px;
+        margin: 0 auto;
+    }
+}
+
+@media (max-width: 600px) {
+    .detail_text {
+        font-size: 15px;
+        margin: 0 20px;
+    }
 }
 
 .footer {

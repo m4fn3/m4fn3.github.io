@@ -16,23 +16,6 @@ Name: gommirativ
 Author: mafu
 Icon: https://cdn.discordapp.com/attachments/1009459069087649792/1104256572764467270/256.png
 
-Package: com.m4fn3.k2ge3
-Architecture: iphoneos-arm
-Version: 0.1.0
-Section: Tweaks
-Maintainer: mafu
-Installed-Size: 456
-Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
-Filename: ./debs/com.m4fn3.k2ge3_0.1.0_iphoneos-arm.deb
-Size: 40304
-MD5sum: e7d3d2109c6556a0233eaeb4e9d9f957
-SHA1: 21e266e21889a72b49c5255b5410c0e1bcf0db7e
-SHA256: 9631ebd796cdd36b896ea196b3e42cd47ca532128e78bb0b9ea08da70e7ec38a
-SHA512: 22bb8b6f3674850a4ac8654a220cb313aa93448e4b20a5c7d0e3eb75edee69e470d958d51f1db7be348cfc074c6ec46c05ec49bdf79fa0005f71d9c117769196
-Description: Tweak for LINE app.
-Name: k2ge3
-Author: mafu
-
 Package: com.m4fn3.k2genmity
 Architecture: iphoneos-arm
 Version: 2.0.0

@@ -191,10 +191,24 @@ h2 {
     line-height: 25px;
 }
 
+.term {
+    font-family: sans-serif;
+}
+
+.term_text {
+    padding: 10px;
+    background-color: white;
+}
+
 @media (min-width: 600px) {
     .detail_text {
         width: 600px;
         margin: 0 auto;
+    }
+
+    .term {
+        width: 600px;
+        margin: 40px auto;
     }
 }
 
@@ -203,7 +217,13 @@ h2 {
         font-size: 15px;
         margin: 0 20px;
     }
+
+    .term {
+        font-size: 15px;
+        margin: 40px 20px;
+    }
 }
+
 
 .footer {
     color: #442424;

@@ -16,6 +16,42 @@ Name: gommirativ
 Author: mafu
 Icon: https://cdn.discordapp.com/attachments/1009459069087649792/1104256572764467270/256.png
 
+Package: com.m4fn3.k2ge3
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Tweaks
+Maintainer: mafu
+Installed-Size: 448
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.m4fn3.k2ge3_1.0.0_iphoneos-arm.deb
+Size: 129988
+MD5sum: 314914acd5ff6afff060f78984594d0d
+SHA1: 22ff86020f59a65b8892996b984cf450f5956e50
+SHA256: 44a0567d0698d4cfafbb5c6b9653c3dc207326a69b5b2c0526a861636bd107d7
+SHA512: a564a5f665734bc2c06fc8f60495aba0b4f4eb26b15576dccb4afd2cdb22b1a2c3fd553e0d57e74295cec246a2b3c6b9066ed4ed270b4cc3b4a3feaa26604475
+Description: Enhance LINE features!
+Name: K2ge3
+Author: mafu
+Icon: https://m4fn3.github.io/repo/web/images/K2ge3.png
+
+Package: com.m4fn3.k2ge3
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Section: Tweaks
+Maintainer: mafu
+Installed-Size: 448
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.m4fn3.k2ge3_1.0.0_iphoneos-arm64.deb
+Size: 130304
+MD5sum: 0d47bdf212b03bc277ae084b39b7a211
+SHA1: 7ed180b6aa02e34c149561a126526639671aba70
+SHA256: 0f542127330b9a223554a62fe234bd14446405da3b8eefcd1251fc1fe1928de5
+SHA512: a8c2d1988408a941cd3a224fa8aeef2d2d171472f7290e85b717978ad8d77afbf39d77ecd8e2d7ee48e30a7b61bdaa5020c8f0c103efb9fd49391b3086f337b9
+Description: Enhance LINE features!
+Name: K2ge3
+Author: mafu
+Icon: https://m4fn3.github.io/repo/web/images/K2ge3.png
+
 Package: com.m4fn3.k2genmity
 Architecture: iphoneos-arm
 Version: 2.0.0

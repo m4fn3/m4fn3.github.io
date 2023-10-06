@@ -1,20 +1,36 @@
 Package: com.m4fn3.gommirativ
 Architecture: iphoneos-arm
-Version: 0.0.1
+Version: 1.0.0
 Section: Tweaks
 Maintainer: mafu
-Installed-Size: 480
-Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
-Filename: ./debs/com.m4fn3.gommirativ_0.0.1_iphoneos-arm.deb
-Size: 64898
-MD5sum: 92c781902d47122b6417fd37a895e1e4
-SHA1: 72e7b43cdf41b3860facf0a86875bb811fe481c1
-SHA256: b8f7bfdadf2c61a2956e70aa45c3c223f97e3d32e6c3d6b42af41505a56fb4d0
-SHA512: 57eca554227fd287c43eda4dbebf06e73d90d7b3369ef0cc0b3b1dc51e103d667a91a5542a2a82c7fc153b1a0c38c7acba992206e1791f368fa7169be110d902
-Description: Bypass jailbreak detection of Mirrativ
-Name: gommirativ
+Installed-Size: 88
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.m4fn3.gommirativ_1.0.0_iphoneos-arm.deb
+Size: 3200
+MD5sum: f13b6593b9fe1bb5c1ad5c8c6ad48625
+SHA1: a265072fa043c8250514b233505bd9e2ebbd2e25
+SHA256: b6c12f57e3d04e4045cc33b8af684330108494fd35a3283b88b2d0e1ccf40122
+SHA512: ee13939ad08a317e734812d8bdd625b02659c09a46bb9b8d77090b874686dae5a7cd73de3acfb168cc98c97c02b7a3e96594d7ed2ea472707ac6809e10d9cca2
+Description: Bypass jailbreak detection of Mirrativ app!
+Name: Gommirativ
 Author: mafu
-Icon: https://cdn.discordapp.com/attachments/1009459069087649792/1104256572764467270/256.png
+
+Package: com.m4fn3.gommirativ
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Section: Tweaks
+Maintainer: mafu
+Installed-Size: 88
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.m4fn3.gommirativ_1.0.0_iphoneos-arm64.deb
+Size: 3638
+MD5sum: aa5add917cdee9fe1611b723314ce98e
+SHA1: d81a654299b3d3aecc81c3766cc7994cc6fc06bc
+SHA256: ffde6826bc1287562214261627982b13a99f1a29d916d2187b2dc55006b00164
+SHA512: 96249b9b03e17bfe15def2a4bcc8b7b8bdcb8045003fb303b20f41a081a153a147d527ed709e74e59a2ae748b8dd75c25cc8ab9611dde5e538a2e4585023ef82
+Description: Bypass jailbreak detection of Mirrativ app!
+Name: Gommirativ
+Author: mafu
 
 Package: com.m4fn3.k2ge3
 Architecture: iphoneos-arm
@@ -83,6 +99,42 @@ MD5sum: 68b70100a192f028c0fcad61e0acc3d5
 SHA1: 24b3b28272aaeda58a6031002d530d994bd4303c
 SHA256: be299af8c768a46889cfa366f40ae30bf21488d0da2be141157bcbd84e4005f6
 SHA512: d1cb01adbaa50ad0cd18bc5d5bb850858228d9f95219f714ea80a67d1cbeeeae935cbbe5b7d21e66c492a966aa32c97f7488906ca615e8fde81a41eb7d03290c
+Description: Enhance LINE features!
+Name: K2ge3
+Author: mafu
+Icon: https://m4fn3.github.io/repo/web/images/K2ge3.png
+
+Package: com.m4fn3.k2ge3
+Architecture: iphoneos-arm
+Version: 1.0.2
+Section: Tweaks
+Maintainer: mafu
+Installed-Size: 448
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.m4fn3.k2ge3_1.0.2_iphoneos-arm.deb
+Size: 129582
+MD5sum: 63f16d4c91b81e453b0ea33b75b843ff
+SHA1: cd8ef874927babcd18caa6e9ed233b753d457cb7
+SHA256: f5096218104809280486bbdf7558d57b91ae4659fbfdad563b16f6c3adcd0afe
+SHA512: 6d60e552e6dc54e432def7a7d299b5ca78fe15c98f11f6af8b6c79a2fdc63c251635be04e87a37d54918eae075273951e92f51ade3b802f99b5e4457ff88725f
+Description: Enhance LINE features!
+Name: K2ge3
+Author: mafu
+Icon: https://m4fn3.github.io/repo/web/images/K2ge3.png
+
+Package: com.m4fn3.k2ge3
+Architecture: iphoneos-arm64
+Version: 1.0.2
+Section: Tweaks
+Maintainer: mafu
+Installed-Size: 448
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.m4fn3.k2ge3_1.0.2_iphoneos-arm64.deb
+Size: 129878
+MD5sum: 9700b3c9b2f1d780dfc88a30b5f783de
+SHA1: 902d2cb584fd55450e4584702c60ceb4ddb72d57
+SHA256: aa6946b18663a3507cc5d9d06d4fbc4091bbc69177a61cb2f7b28a304f2700d0
+SHA512: b81d14fd0a8493243b73c12d0900a5ca25d013ab5aeb5413a728234ebd72345fdb04d1a03da3635bf1945cdb94d516dc9724f409a501c1b70125235692a5fdb7
 Description: Enhance LINE features!
 Name: K2ge3
 Author: mafu

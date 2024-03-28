@@ -264,3 +264,20 @@ Author: strejda603 <strejda603@centrum.cz>
 Depiction: https://repo.danielpitra.cz/depiction.php?id=com.strejda603.documentsbyreaddlepremium
 Sileodepiction: https://repo.danielpitra.cz/sileo-depiction.php?id=com.strejda603.documentsbyreaddlepremium
 
+Package: com.subdiox.ufjpatch
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: subdiox
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: ./debs/com.subdiox.ufjpatch_1.0_iphoneos-arm64.deb
+Size: 2986
+MD5sum: d317841d50266854cfa16913328f06a4
+SHA1: 31b05d1d7a5d28278be6e6b2667b05fd4fe4636f
+SHA256: 1e1c3bf79a8bd49b6d9f8f3560cbcc5148b0bd31ce421172abbc0b4bab3d0a92
+SHA512: 9592fafc23e3cbf0f2ec7e878a9a46c8a261769d55cf109e2ae74a6994c3f0ec39e2541acb9ef72273d4c646fb1a8a8a24e2ba037a3d560c4fbfcbbeed467d0d
+Description: Anti Jailbreak Detection for Mitsubishi UFJ
+Name: UFJ Patch
+Author: subdiox
+

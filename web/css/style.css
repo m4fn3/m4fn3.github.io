@@ -81,6 +81,7 @@ h2 {
 
 .home_managers {
     padding: 0;
+    margin: 16px 0 5px 0;
 }
 
 .home_managers a {
@@ -101,7 +102,7 @@ h2 {
 
 .home_copy {
     padding:0;
-    margin: 20px auto 30px auto;
+    margin: 5px auto 30px auto;
 }
 
 .home_copy li {

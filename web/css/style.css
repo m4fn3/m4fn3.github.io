@@ -99,7 +99,7 @@ h2 {
 
 .package {
     width: 320px; /* 450 */
-    margin: 0 auto;
+    margin: 20px auto;
 }
 
 .package img {
@@ -124,7 +124,7 @@ h2 {
 }
 
 .package .package_desc {
-    height: 25px;
+    height: 40px;
     font-size: 15px;
     vertical-align: middle;
     text-align: left;

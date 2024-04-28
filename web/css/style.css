@@ -198,7 +198,7 @@ h2 {
 
 .detail {
     text-align: center;
-    margin: 50px 0 0 0;
+    margin: 20px 0 0 0;
 }
 
 .detail_title {
@@ -252,7 +252,7 @@ h2 {
 
     .term {
         width: 600px;
-        margin: 40px auto;
+        margin: 20px auto;
     }
 }
 
@@ -264,7 +264,7 @@ h2 {
 
     .term {
         font-size: 15px;
-        margin: 40px 20px;
+        margin: 20px 20px;
     }
 }
 

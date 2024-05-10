@@ -212,6 +212,42 @@ Name: K2ge3
 Author: mafu
 Icon: https://m4fn3.github.io/repo/web/images/K2ge3.png
 
+Package: com.m4fn3.k2ge3
+Architecture: iphoneos-arm
+Version: 1.0.5
+Section: Tweaks
+Maintainer: mafu
+Installed-Size: 6008
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.m4fn3.k2ge3_1.0.5_iphoneos-arm.deb
+Size: 1038046
+MD5sum: f9e56962858b23f395e017089df24a59
+SHA1: d6bf4d746e70db3873c328d41a6c52c7aa8b367b
+SHA256: 1d2d06c3cfc20a04dbe527a2bd22855290040524eced0b1e4ac9fc99b794bb74
+SHA512: 0f86b782942bea2c45b4e33d6b009cea8f63589f9cef9b50f843226088702b11af9ee249773dcb2048edeee873153fa1e670029153c65fe9ce2dcc602d5d3139
+Description: Enhance LINE features!
+Name: K2ge3
+Author: mafu
+Icon: https://m4fn3.github.io/repo/web/images/K2ge3.png
+
+Package: com.m4fn3.k2ge3
+Architecture: iphoneos-arm64
+Version: 1.0.5
+Section: Tweaks
+Maintainer: mafu
+Installed-Size: 6348
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.m4fn3.k2ge3_1.0.5_iphoneos-arm64.deb
+Size: 1050980
+MD5sum: d6a99da5ae1e55d73c9aeb2520ca2f72
+SHA1: 5a5e6e8e52fa65141cdf02dd35af342a34379f98
+SHA256: 66561bf25facc088e87166d43aaf26b795b43ddf6de207e36aa2a62852b16e0a
+SHA512: fd9ccec3fd55286be2fe95cc84506e3c7f857fabd09401bfbba632ce29825f43e041b259e7f402e6735dbf785ef639dea7a6890f7f6d2e8ab0d35d40cea7c861
+Description: Enhance LINE features!
+Name: K2ge3
+Author: mafu
+Icon: https://m4fn3.github.io/repo/web/images/K2ge3.png
+
 Package: com.m4fn3.k2gecamen
 Architecture: iphoneos-arm
 Version: 1.0.0

@@ -231,7 +231,6 @@ h2 {
     margin: 0 10px;
 }
 
-
 .detail_text {
     line-height: 25px;
 }
@@ -251,6 +250,10 @@ h2 {
         margin: 0 auto;
     }
 
+    .detail_preview {
+        width: 250px;
+    }
+
     .term {
         width: 600px;
         margin: 20px auto;
@@ -261,6 +264,10 @@ h2 {
     .detail_text {
         font-size: 15px;
         margin: 0 20px;
+    }
+
+    .detail_preview {
+        width: 45%;
     }
 
     .term {

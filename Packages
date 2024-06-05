@@ -104,6 +104,42 @@ Name: K2gecamen
 Author: mafu
 Icon: https://m4fn3.github.io/repo/web/images/K2gecamen.png
 
+Package: com.m4fn3.k2gecamen
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Tweaks
+Maintainer: mafu
+Installed-Size: 1880
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.ccsupport
+Filename: ./debs/com.m4fn3.k2gecamen_1.0.1_iphoneos-arm.deb
+Size: 305422
+MD5sum: 1477fa87bce37e2b75f02d44c44edab3
+SHA1: 76fded82ab11e99984908af3a874c00648323b0c
+SHA256: 437c884affef1fe5f2f74c813c1fef881554ca9ce48d13b28e5bf3b97a3a0663
+SHA512: 36985a7b300c970eef8e4180cb4ce3b5a271be776b644a22e69aabe688d31beccb0941c39d6435e7ba06a0963cc6c8e9fa75fb71f55637a2e632cf6672a44beb
+Description: Sneakily capture moments with photos, videos, and audio.
+Name: K2gecamen
+Author: mafu
+Icon: https://m4fn3.github.io/repo/web/images/K2gecamen.png
+
+Package: com.m4fn3.k2gecamen
+Architecture: iphoneos-arm64
+Version: 1.0.1
+Section: Tweaks
+Maintainer: mafu
+Installed-Size: 1864
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.ccsupport
+Filename: ./debs/com.m4fn3.k2gecamen_1.0.1_iphoneos-arm64.deb
+Size: 308626
+MD5sum: 0e4cf09cda970a577d884db253b7f9a2
+SHA1: bad078a954cff6012701297db801164eeb9178b0
+SHA256: e9446c8b895aa4a3b4301b7c591205138591e7eea658cd59713844b1aa4aa252
+SHA512: 2c353605be5fbc00b6f9115a1db80f5daeb1e8637109b48beb3ae6da352408af6af07ed61a656b85eb5698a0dbc89dc2cb351759d828ab6a6ade4a89bff16a96
+Description: Sneakily capture moments with photos, videos, and audio.
+Name: K2gecamen
+Author: mafu
+Icon: https://m4fn3.github.io/repo/web/images/K2gecamen.png
+
 Package: com.m4fn3.k2genmity
 Architecture: iphoneos-arm
 Version: 2.0.0

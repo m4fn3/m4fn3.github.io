@@ -235,6 +235,17 @@ h2 {
     line-height: 25px;
 }
 
+
+.detail_preview {
+    display: block;
+    margin: 0 2px;
+}
+
+.detail_preview img {
+    display: block;
+    height: 100%;
+}
+
 .term {
     font-family: sans-serif;
 }
@@ -250,8 +261,14 @@ h2 {
         margin: 0 auto;
     }
 
-    .detail_preview {
+    /* .detail_preview {
         width: 250px;
+    } */
+
+    .detail_preview_box {
+        display: flex;
+        height: 541px;
+        overflow-x: scroll;
     }
 
     .term {
@@ -266,8 +283,15 @@ h2 {
         margin: 0 20px;
     }
 
-    .detail_preview {
+    /* .detail_preview {
         width: 45%;
+    } */
+
+    .detail_preview_box {
+        display: flex;
+        width: 90%;
+        height: 541px;
+        overflow-x: scroll;
     }
 
     .term {
@@ -275,6 +299,7 @@ h2 {
         margin: 20px 20px;
     }
 }
+
 
 
 .footer {
